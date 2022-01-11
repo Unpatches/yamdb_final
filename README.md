@@ -43,3 +43,5 @@ docker-compose run web python manage.py loaddata fixtures.json
 ```
 docker-compose down
 ```
+Развернутый проект находиться по адресу http://51.250.9.230/
+```

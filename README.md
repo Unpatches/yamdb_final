@@ -1,3 +1,6 @@
+# Yamdb
+![example workflow](https://github.com/Unpatches/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # REST API для сервиса YaMDb — базы отзывов о фильмах, книгах и музыке. (Совместный проект студентов Яндекс.Практикум)
 
 Проект YaMDb собирает отзывы (*Review*) пользователей на произведения (*Title*). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (*Category*) может быть расширен (например, можно добавить категорию *«Изобразительное искусство»* или *«Ювелирка»*).
@@ -45,5 +48,3 @@ docker-compose down
 ```
 Развернутый проект находиться по адресу http://51.250.9.230/
 ```
-# Yamdb
-![example workflow](https://github.com/Unpatches/yamdb_final/workflows/yamdb_workflow.yml/badge.svg)

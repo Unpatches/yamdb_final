@@ -46,4 +46,4 @@ docker-compose down
 Развернутый проект находиться по адресу http://51.250.9.230/
 ```
 # Yamdb
-![example workflow](https://github.com/Unpatches/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/Unpatches/yamdb_final/workflows/yamdb_workflow.yml/badge.svg)
